@@ -2,7 +2,7 @@ package fellowship_programs;
 
 import java.util.Random;
 import java.util.Scanner;
-class Flp_coin {
+class Flip_coin {
   public static void main(String[] args) {
     int heads=1;
     int tails=0;
